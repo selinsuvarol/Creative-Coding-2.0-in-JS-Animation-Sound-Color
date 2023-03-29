@@ -1,5 +1,5 @@
 [![Domestika Course](https://img.shields.io/badge/Domestika%20Course-Link-White?labelColor=red&style=for-the-badge&link=https://www.domestika.org/en/courses/3862-creative-coding-2-0-in-js-animation-sound-color)](https://www.domestika.org/en/courses/3862-creative-coding-2-0-in-js-animation-sound-color)
-# 🌈 Creative Coding 2.0 in JS: Animation, Sound, & Color 🌈
+## 🌈 Creative Coding 2.0 in JS: Animation, Sound, & Color 🌈
 
 ### 📝 Description
 
